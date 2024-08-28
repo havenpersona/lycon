@@ -1,6 +1,6 @@
 # LyCon: LYRICS RECONSTRUCTION FROM THE BAG-OF-WORDS USING LARGE LANGUAGE MODELS
 
-This repository includes the LyCon dataset, introduced in our paper 'LyCon: LYRICS RECONSTRUCTION FROM THE BAG-OF-WORDS USING LARGE LANGUAGE MODELS', as well as a simple Python code to obtain statistical information about the dataset.
+This repository includes the LyCon dataset, introduced in our paper [LyCon: LYRICS RECONSTRUCTION FROM THE BAG-OF-WORDS USING LARGE LANGUAGE MODELS](https://arxiv.org/abs/2408.14750), as well as a simple Python code to obtain statistical information about the dataset.
 
 If you find this dataset useful for your research, please consider citing our paper.
 
